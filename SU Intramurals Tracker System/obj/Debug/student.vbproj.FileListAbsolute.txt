@@ -1,0 +1,99 @@
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\obj\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student2\student\obj\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student3\student\obj\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student4\student\obj\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student5\student\obj\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student6\student\obj\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\bin\Debug\student.exe.config
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\obj\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\obj\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\obj\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\bin\Debug\student.exe
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\bin\Debug\student.pdb
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\bin\Debug\student.xml
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\bin\Debug\IBM.Data.DB2.dll
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\obj\Debug\WindowsApplication1.Form1.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\obj\Debug\WindowsApplication1.Resources.resources
+D:\school\2nd year\2nd sem\ccs5\suits\suits_stud\student7\student\obj\Debug\student.vbproj.GenerateResource.Cache
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\Debug\student.exe.config
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\Debug\IBM.Data.DB2.dll
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\Debug\student.vbproj.GenerateResource.Cache
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\Debug\student.exe.config
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\Debug\IBM.Data.DB2.dll
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\Debug\student.vbproj.GenerateResource.Cache

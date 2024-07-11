@@ -1,0 +1,60 @@
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\x86\Debug\student.exe.config
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\x86\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\x86\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\bin\x86\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\x86\Debug\student.vbproj.GenerateResource.Cache
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\x86\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\x86\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\student\obj\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\bin\x86\Debug\student.exe.config
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\obj\x86\Debug\student.exe
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\obj\x86\Debug\student.xml
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\obj\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\bin\x86\Debug\student.exe
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\bin\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\bin\x86\Debug\student.xml
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student 8-20230605T140809Z-001\Student 8\student\obj\x86\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\bin\x86\Debug\student.exe.config
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\obj\x86\Debug\student.exe
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\obj\x86\Debug\student.xml
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\obj\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\bin\x86\Debug\student.exe
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\bin\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\bin\x86\Debug\student.xml
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student 8\student\obj\x86\Debug\student.vbproj.GenerateResource.Cache
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\bin\x86\Debug\student.exe.config
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\obj\x86\Debug\student.exe
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\obj\x86\Debug\student.xml
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\obj\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\bin\x86\Debug\student.exe
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\bin\x86\Debug\student.pdb
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\bin\x86\Debug\student.xml
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\school\2ndyear\2ndsem\ccs5\suits\suits_stud\Student9\Student9\student\obj\x86\Debug\student.vbproj.GenerateResource.Cache
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\x86\Debug\student.exe.config
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\x86\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\x86\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\x86\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\x86\Debug\student.exe
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\x86\Debug\student.pdb
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\bin\x86\Debug\student.xml
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\acer\OneDrive - ormoc.sti.ph\Desktop\VB Projects\Student\obj\x86\Debug\student.vbproj.GenerateResource.Cache
+C:\Users\james\OneDrive\Desktop\Student\bin\x86\Debug\student.exe.config
+C:\Users\james\OneDrive\Desktop\Student\obj\x86\Debug\student.xml
+C:\Users\james\OneDrive\Desktop\Student\obj\x86\Debug\student.pdb
+C:\Users\james\OneDrive\Desktop\Student\bin\x86\Debug\student.exe
+C:\Users\james\OneDrive\Desktop\Student\bin\x86\Debug\student.pdb
+C:\Users\james\OneDrive\Desktop\Student\bin\x86\Debug\student.xml
+C:\Users\james\OneDrive\Desktop\Student\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\james\OneDrive\Desktop\Student\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\james\OneDrive\Desktop\Student\obj\x86\Debug\student.vbproj.GenerateResource.Cache
+C:\Users\james\OneDrive\Desktop\Student\obj\x86\Debug\student.exe
